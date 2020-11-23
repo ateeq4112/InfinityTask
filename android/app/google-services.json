@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "321032157602",
+    "firebase_url": "https://infinitytask-4fe0a.firebaseio.com",
+    "project_id": "infinitytask-4fe0a",
+    "storage_bucket": "infinitytask-4fe0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321032157602:android:8405d630b9163a10e95afb",
+        "android_client_info": {
+          "package_name": "com.infinitytask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321032157602-49ua3eot8reiivqema2tdieni3fh7i3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infinitytask",
+            "certificate_hash": "2fd506e19abc0d6ae58190f46a1cefd1a2f4a8f8"
+          }
+        },
+        {
+          "client_id": "321032157602-o4d07coe89bked0js7r8hpb7ass3sqdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhUw1mC_5lEKNwQjIO0lKryhkctAi8lyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321032157602-o4d07coe89bked0js7r8hpb7ass3sqdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
