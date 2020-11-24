@@ -37,6 +37,8 @@ export default class SignIn extends Component {
     {
        
         this.textInput.clear();
+        this.textInput1.clear();
+        this.setState({email:false,paswd:false});
          // GoogleSignin.configure({
         //     // Mandatory method to call before calling signIn()
         //     scopes: ['https://www.googleapis.com/auth/drive.readonly'],
@@ -188,7 +190,7 @@ export default class SignIn extends Component {
                             </View>
 
                             <TextInput
-                                ref={input => { this.textInput = input }}
+                                  ref={input => { this.textInput1 = input }}
                                 style={loginStyles.textarea}
                                 placeholderTextColor='white'
                                 secureTextEntry={true}
